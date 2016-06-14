@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/iscar.PNG</file>
+        <file>image/notcar.PNG</file>
+        <file>image/exit.png</file>
+        <file>image/exit_2.png</file>
+        <file>image/exit_3.png</file>
+        <file>image/exit_4.png</file>
+        <file>image/localposition.png</file>
+        <file>image/outdoor.png</file>
+    </qresource>
+</RCC>
